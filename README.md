@@ -2,7 +2,12 @@ Link do Projeto:
 https://github.com/gabrieldarezzo/mobile-first
 
 
-[ ] Offline First (Após abrir 1x, é possivel abrir o site novamente mesmo se estiver fechado)
+Service Work Lifecycle:
+docs/sw-lifecycle.png
+
+
+
+[ x ] Offline First (Após abrir 1x, é possivel abrir o site novamente mesmo se estiver fechado)
 -> Está no metro, sem sinal e abriu o site de Notícia, vai navegar tranquilamente mesmo sem sinal/offline (pelo menos no que está no cache)
 
 [ ] 1.a Enviar Notificação pelo Browser (mesmo fechado)
