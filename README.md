@@ -1,6 +1,8 @@
 Demo online:
-https://gabrieldarezzo.github.io/mobile-first/
-Ps:
+https://gabrieldarezzo.github.io/mobile-first/  
+
+
+Ps:  
 Repare que após acessar a primeira vez, ele os dados (<li's>) de forma offline puxando via cache (e não exibe o dinossauro).
 
 
