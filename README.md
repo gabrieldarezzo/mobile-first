@@ -1,3 +1,12 @@
+Demo online:
+https://gabrieldarezzo.github.io/mobile-first/
+Ps:
+Repare que após acessar a primeira vez, ele os dados (<li's>) de forma offline puxando via cache (e não exibe o dinossauro).
+
+
+![Kill dino with meteor](https://i.ytimg.com/vi/Z08xBdsbhns/maxresdefault.jpg)
+
+
 Link do Projeto:
 https://github.com/gabrieldarezzo/mobile-first
 
@@ -11,7 +20,7 @@ docs/sw-lifecycle.png
 -> Está no metro, sem sinal e abriu o site de Notícia, vai navegar tranquilamente mesmo sem sinal/offline (pelo menos no que está no cache)
 
 [ ] 1.a Enviar Notificação pelo Browser (mesmo fechado)
--> Portal de Notícia, ao cadastrar Notícia notifica todo mundo que tem uma Notícia nova.
+-> Ex: Portal de Notícia, ao cadastrar Notícia notifica todo mundo que tem uma Notícia nova.
 
 
 
